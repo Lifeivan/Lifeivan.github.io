@@ -1,0 +1,20 @@
+[
+    {
+        "bibtex": "@inproceedings{NULL,\n  title     = {I am working hard to fill this empty section!},\n  author    = {Chen, YuLong},\n  booktitle = {NULL, {NULL}},\n  publisher = {NULL},\n  address    = {NULL},\n  pages     = {NULL},\n  year      = {2023},\n   doi       = {NULL}\n}\n",
+        "authors": {
+            "boldAuthors": ["YuLong Chen"],
+            "correspondingAuthors": ["Yuan He"],
+            "equalContributionAuthors": null
+        },
+        "note": "",
+        "resources": {
+            "pdf": null,
+            "slides": null,
+            "code": null,
+            "demo": null
+        },
+        "figure":null,
+        "abstract": null
+    }
+    
+]
